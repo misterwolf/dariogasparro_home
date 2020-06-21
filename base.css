@@ -68,8 +68,6 @@ footer {
   margin-bottom: 1em;
 }
 
-footer a {
-  color: #FFF;
+footer p {
   font-size: 0.7em;
-  text-decoration: none;
 }
