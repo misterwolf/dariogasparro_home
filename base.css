@@ -21,6 +21,7 @@ html, body {
 
 .my-auto {
   margin: 0 auto;
+  margin-bottom: 0!important;
 }
 
 .center {
